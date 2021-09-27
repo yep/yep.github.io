@@ -1,4 +1,4 @@
 yep.github.io
 =============
 
-github page at [yep.gihub.io](http://yep.github.io)
+Repository for GitHub page at [yep.github.io](http://yep.github.io)
